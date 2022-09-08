@@ -33,22 +33,22 @@ export default function Navbar() {
         </Link>
 <Link to="/about">
         <li>
-          <a href="/#" className="block py-2 pr-4 pl-3 text-gray-700 rounded md:hover:text-pink-500 hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"> About <AiFillContacts/></a>
+          <a href="/#" className="block py-2 pr-4 pl-3 text-gray-700 rounded md:hover:text-pink-500 hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent"> About  me<AiFillContacts/></a>
         </li>
         </Link>
         <Link to="/resume">
         <li>
-          <a href="/#" className="block py-2 pr-4 pl-3 text-gray-700 rounded md:hover:text-pink-500 hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Resume<GrNotes/></a>
+          <a href="/#" className="block py-2 pr-4 pl-3 text-gray-700 rounded md:hover:text-pink-500 hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Resume me<GrNotes/></a>
         </li>
         </Link>
         <Link to="/works">
         <li>
-          <a href="/#" className="block py-2 pr-4 pl-3 text-gray-700 rounded md:hover:text-pink-500 hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Works<SiCountingworkspro/></a>
+          <a href="/#" className="block py-2 pr-4 pl-3 text-gray-700 rounded md:hover:text-pink-500 hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Works me<SiCountingworkspro/></a>
         </li>
         </Link>
         <Link to="/blog">
         <li>
-          <a href="/#" className="block py-2 pr-4 pl-3 text-gray-700 rounded md:hover:text-pink-500 hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Blog <ImBlogger2/></a>
+          <a href="/#" className="block py-2 pr-4 pl-3 text-gray-700 rounded md:hover:text-pink-500 hover:bg-gray-100 md:hover:bg-transparent md:border-0  md:p-0 dark:text-gray-400 md:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent">Blog me<ImBlogger2/></a>
         </li>
         </Link>
       </ul>
